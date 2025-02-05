@@ -54,19 +54,20 @@ To set up this API locally, follow these steps:
 ```bash
 git clone [https://github.com/Vincidax/hng12-backend-stage-one.git](https://github.com/Vincidax/hng12-backend-stage-one.git)
 cd hng12-backend-stage-one
+```
 
 #### Install dependencies:
 To install the necessary dependencies, run the following command:
 
 ```bash
 npm install
-
+```
 #### Start the server:
 To start the server, run the following command:
 
 ```bash
 node index.js
-
+```
 ### Deployment
 This project is deployed on Vercel. You can access the API at the following URL:
 
