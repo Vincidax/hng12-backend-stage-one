@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Middleware
-gapp.use(cors());
+app.use(cors());
 app.use(express.json());
 
 // Function to check if a number is prime
